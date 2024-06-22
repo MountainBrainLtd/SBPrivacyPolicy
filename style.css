@@ -1,0 +1,26 @@
+/* General styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 2rem;
+  line-height: 1.6; /* Adjust line-height for better readability */
+}
+
+h1, h2 {
+  margin: 1rem 0;
+  font-weight: bold;
+}
+
+p {
+  margin-bottom: 1rem;
+}
+
+/* Privacy Policy section styles */
+.privacy-policy {
+  padding: 1rem;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  background-color: #f5f5f5; /* Light gray background */
+  /* Adjust font size and line-height as needed */
+  font-size: 16px;
+  line-height: 1.5;
+}
